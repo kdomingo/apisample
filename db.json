@@ -1,5 +1,9 @@
 {
-  "data": {
-    "success":true
+  "app": {
+    "menu": [
+      {"title":"Start a timer"},
+      {"title":"Change app theme"},
+      {"title":"Be Idle"}
+    ]
   }
 }
